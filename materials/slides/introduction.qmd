@@ -1,6 +1,6 @@
 ---
 title: "Presentation Title"
-author: "James Tripp"
+author: "Presenter"
 institute: University of Warwick
 format: 
   revealjs:
