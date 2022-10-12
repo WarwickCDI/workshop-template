@@ -19,7 +19,7 @@ website:
           text: "Activity 1"
 format:
   html:
-    theme: litera
+    theme: materia
     css: styles.css
     toc: true
 
