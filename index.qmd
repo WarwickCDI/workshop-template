@@ -1,11 +1,56 @@
 ---
-title: "testsite"
+title: "Outline"
+author: "Workshop Author"
+format: html
 ---
 
-This is a Quarto website.
+<!-- This template is base on https://github.com/rstudio-conf-2022/get-started-quarto -->
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: callout-tip
+## Pre Work
 
-```{r}
-1 + 1
-```
+-   Action 1
+-   Action 2
+:::
+
+------------------------------------------------------------------------
+
+<!-- Emojis are available via RStudio -->
+
+<!-- See https://quarto.org/docs/visual-editor/content.html -->
+
+📅25th June
+
+⏰10:00 - 10:30
+
+🏠Location
+
+------------------------------------------------------------------------
+
+## Overview
+
+Here is an outline of the workshop
+
+### Schedule
+
+<!-- Generate via https://www.tablesgenerator.com/markdown_tables -->
+
+| Activity                                                    | Time    |
+|-------------------------------------------------------------|---------|
+| [Activity 1](materials/activity/01-activity1/activity1.qmd) | 30 mins |
+| Activity 2                                                  | 10 mins |
+
+## Learning objectives
+
+-   Objective 1
+-   Objective 2
+
+## Instructor
+
+Here are your details
+
+------------------------------------------------------------------------
+
+<!-- Do make sure this is the right license -->
+
+![](https://i.creativecommons.org/l/by/4.0/88x31.png) This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).

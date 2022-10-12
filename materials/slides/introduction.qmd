@@ -1,0 +1,22 @@
+---
+title: "Presentation Title"
+author: "James Tripp"
+institute: University of Warwick
+format: 
+  revealjs:
+    slide-number: true
+    width: 1920
+    height: 1080
+    logo: "../images/cdi_logo.png"
+    footer: "slide_url"
+    css: ["theme/theme.css"]
+editor: source
+---
+
+# Introductions
+
+## First slide
+
+* Topic 1
+* Topic 2
+* Topic 3

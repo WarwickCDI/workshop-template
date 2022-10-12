@@ -9,12 +9,17 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: Outline
+  sidebar: 
+      style: docked
+      contents:
+        - href: materials/slides/introduction.qmd
+          text: "Introduction slides"
+        - href: materials/activity/01-activity1/activity1.qmd
+          text: "Activity 1"
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
     toc: true
 
